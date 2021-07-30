@@ -1,4 +1,4 @@
-### Hi there, I'm Samantha and I'm an aspiring web developer.
+### Hi there, I'm Samantha and I'm an aspiring frontend web developer.
 
 Here are some facts about me:
 
