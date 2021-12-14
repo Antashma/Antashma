@@ -8,6 +8,6 @@
 
 ## Tech you'll see me using:
 
-- **Frontend**: React, HTML, CSS, Redux
-- **Backend**: Node, Express, SQLite
+- **Frontend**: React, HTML, CSS, JavaScript, Redux
+- **Backend**: Node, Express, SQLite, Python
 - **Applications**: VS Code, Postman, Git, Github
