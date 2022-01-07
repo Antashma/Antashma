@@ -2,7 +2,7 @@
 
 ## Here are some facts about me:
 
-- 🤩 I am learning how to make a dating sim with javascript
+- 🎮 I am learning how to make a game with HTML, CSS, and JavaScript
 - 📧 You can reach me at [LinkedIn](https://www.linkedin.com/in/samantha-lee-goodman/)
 - ⚡ Fun fact: I like to play Otome games
 
