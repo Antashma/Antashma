@@ -1,4 +1,4 @@
-# Hi there, I'm Samantha and I'm a software engineer who loves frontend developement.
+# Hello, I'm Samantha and I'm a software engineer who loves frontend developement.
 
 ## Here are some facts about me:
 
