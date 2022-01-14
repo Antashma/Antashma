@@ -3,9 +3,8 @@
 ## Here are some facts about me:
 
 - 🎮 I making a game with HTML, CSS, and JavaScript
-- 👩‍💻 I am learning how to use Docker via [Programming with Mosh] (https://www.youtube.com/watch?v=pTFZFxd4hOI)
+- 👩‍💻 I am learning how to use Docker
 - 📧 You can reach me at [LinkedIn](https://www.linkedin.com/in/samantha-lee-goodman/)
-- 📚 I am reading Scarlet and Ivy (Book 4): The Lights Under the Lake 
 - ⚡ Fun fact: I like to play Otome games
 
 ## Tech you'll see me using:
