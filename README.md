@@ -1,4 +1,4 @@
-# ![bouncing heart](pa_heart_face_animate.gif) Hello, I'm Samantha ![bouncing heart](pa_heart_face_animate.gif)
+# ![bouncing heart](pa_heart_face_animate.gif) Hello, I'm Samantha.
 
 I'm a software engineer who loves frontend developement
 
