@@ -4,10 +4,10 @@
 
       <style>
         .header {
-          background-color: pink,
-        color: white,
-        width: 100%;
-        padding: 20px;
+          background-color:pink,
+        color:white,
+        width: 100%,
+        padding: 20px
         }
       </style>
 
