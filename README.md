@@ -1,6 +1,6 @@
 # ![bouncing heart](pa_heart_face_animate.gif) Hello, I'm Samantha.
 
-I'm a software engineer who loves frontend developement
+I'm a software engineer who loves frontend development
 
 ## ♥ Here are some facts about me:
 
