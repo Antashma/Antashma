@@ -1,5 +1,3 @@
-<img src="testheader.svg" alt="header" />
-
 # ![bouncing heart](pa_heart_face_animate.gif) Hello, I'm Samantha.
 
 I'm a software engineer who loves frontend developement
